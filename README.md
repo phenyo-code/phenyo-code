@@ -9,7 +9,7 @@ As a full-stack developer, I have hands-on experience with backend technologies,
 
 I also follow clean coding and design principles, embracing methodologies such as Clean Architecture, MVVM (Model-View-ViewModel), and Dependency Injection to ensure my work is modular, maintainable, and user-centric. My passion lies in delivering seamless and impactful digital experiences through thoughtful design and efficient code.
 
-## My Skills
+## My Skills:
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" title="JavaScript" />&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;
@@ -22,7 +22,10 @@ I also follow clean coding and design principles, embracing methodologies such a
 </p>
 
 
-I’m currently working on a MERN stack e-commerce project. This full-stack web application is built using MongoDB, Express.js, React.js, and Node.js. The platform focuses on creating a seamless online shopping experience with features like user authentication, product management, cart functionality, and secure payment processing.
+
+## Currently:
+
+I’m working on a MERN stack e-commerce project. This full-stack web application is built using MongoDB, Express.js, React.js, and Node.js. The platform focuses on creating a seamless online shopping experience with features like user authentication, product management, cart functionality, and secure payment processing.
 
 The project aims to provide a scalable and responsive e-commerce solution that works across desktop and mobile devices.
 
