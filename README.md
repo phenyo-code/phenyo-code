@@ -1,4 +1,4 @@
-## Welcome to my github
+## Welcome To My Github
 <p align="center">
 <img src="https://phenyodesigns.netlify.app/Header.png">
 </p>
