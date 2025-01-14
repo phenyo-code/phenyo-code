@@ -21,3 +21,8 @@ I also follow clean coding and design principles, embracing methodologies such a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" title="MongoDB" />
 </p>
 
+
+I’m currently working on a MERN stack e-commerce project. This full-stack web application is built using MongoDB, Express.js, React.js, and Node.js. The platform focuses on creating a seamless online shopping experience with features like user authentication, product management, cart functionality, and secure payment processing.
+
+The project aims to provide a scalable and responsive e-commerce solution that works across desktop and mobile devices.
+
