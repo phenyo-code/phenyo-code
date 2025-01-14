@@ -3,7 +3,10 @@
 <img src="https://phenyodesigns.netlify.app/Header.png">
 </p>
 
-I'm a Front-end developer and an 
+I'm a Front-end developer and an aspiring MERN and MEAN stack developer
+
+
+
 
 <!--
 **phenyo-code/phenyo-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
