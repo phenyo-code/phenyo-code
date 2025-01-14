@@ -9,6 +9,8 @@ As a full-stack developer, I have hands-on experience with backend technologies,
 
 I also follow clean coding and design principles, embracing methodologies such as Clean Architecture, MVVM (Model-View-ViewModel), and Dependency Injection to ensure my work is modular, maintainable, and user-centric. My passion lies in delivering seamless and impactful digital experiences through thoughtful design and efficient code.
 
+## Skills: 
+
 
 
 
