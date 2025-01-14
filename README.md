@@ -1,7 +1,9 @@
 ## Welcome to my github
 
 
-
+<p align="center">
+<img src="header.png" alt="Phenyo's Header Image">
+</p>
 
 I'm a Front-end developer and an 
 
