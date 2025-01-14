@@ -12,25 +12,25 @@ I also follow clean coding and design principles, embracing methodologies such a
 ## My Skills
 
 <p align="center">
-  <span style="margin: 0 15px;">
+  <span style="margin: 0 35px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" title="JavaScript" />
   </span>
-  <span style="margin: 0 15px;">
+  <span style="margin: 0 35px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="50" height="50" title="React.js" />
   </span>
-  <span style="margin: 0 15px;">
+  <span style="margin: 0 35px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50" title="Angular" />
   </span>
   <span style="margin: 0 15px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" title="Node.js" />
   </span>
-  <span style="margin: 0 15px;">
+  <span style="margin: 0 35px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="50" height="50" title="Express" />
   </span>
-  <span style="margin: 0 15px;">
+  <span style="margin: 0 35px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="50" height="50" title="Postman" />
   </span>
-  <span style="margin: 0 15px;">
+  <span style="margin: 0 35px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" title="MongoDB" />
   </span>
 </p>
