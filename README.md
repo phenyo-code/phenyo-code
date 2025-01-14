@@ -1,7 +1,8 @@
 ## Welcome to my github
 
+<p align="center">
 <img src="./images/Header.png" align="center"">
-
+</p>
 
 I'm a Front-end developer and an 
 
