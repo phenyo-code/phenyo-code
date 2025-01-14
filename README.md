@@ -1,7 +1,6 @@
 ## Welcome to my github
-
 <p align="center">
-<img src="./images/Header.png" align="center"">
+<img src="https://phenyodesigns.netlify.app/Header.png">
 </p>
 
 I'm a Front-end developer and an 
