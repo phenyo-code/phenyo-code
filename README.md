@@ -29,3 +29,27 @@ I’m working on a MERN stack e-commerce project. This full-stack web applicatio
 
 The project aims to provide a scalable and responsive e-commerce solution that works across desktop and mobile devices.
 
+
+
+
+## Currently Learning:
+
+
+--       C#: I’m deepening my understanding of C# to build more robust backend systems and improve my proficiency in object-oriented 
+         programming. C# is widely used in developing enterprise applications and games, which aligns with my goal to enhance my backend 
+          development skills.
+
+--      Cloud Deployment: I’m learning how to deploy applications to the cloud using services like AWS, Azure, and Heroku. Cloud 
+        deployment is essential for scaling applications, ensuring high availability, and enhancing performance, especially in modern web 
+         applications and e-commerce solutions.
+
+--     CI/CD (Continuous Integration/Continuous Deployment): I’m gaining expertise in setting up automated CI/CD pipelines to streamline 
+       development workflows, automate testing, and deploy applications reliably. CI/CD improves efficiency by reducing manual 
+       intervention and speeding up the delivery process.
+
+--    Docker: I’m exploring Docker to containerize applications, making them easier to deploy across different environments. Docker 
+      simplifies application distribution and ensures consistency across development, testing, and production environments.
+
+---  Kubernetes (K8S): I’m learning Kubernetes to manage containerized applications at scale. Kubernetes is a powerful tool for 
+     orchestrating, scaling, and automating the deployment of applications, especially in microservices architectures.
+
