@@ -10,7 +10,7 @@ As a full-stack developer, I have hands-on experience with backend technologies,
 
 
 
-
+.
 ## My Skills:
 
 <p align="center">
