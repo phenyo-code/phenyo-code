@@ -34,7 +34,7 @@ As a full-stack developer, I have hands-on experience with backend technologies,
 
 ## Currently:
 
-I’m working on a productivity desktop application word processor called LightDocs. Think Microsoft Word but lighter.  I building it with Tauri wgich is a combination of web technologies for the frontend and Rust for the backend. This will be my very first native desktop application so it might take a while as I'm still learning and building. Di comeback to track progress as I update this every month.
+I’m working on a productivity desktop application word processor called LightDocs. Think Microsoft Word but lighter.  I'm building it with Tauri which is a combination of web technologies for the frontend and Rust for the backend. This will be my very first native desktop application so it might take a while as I'm still learning and building. Di comeback to track progress as I update this every month.
 
 
 
