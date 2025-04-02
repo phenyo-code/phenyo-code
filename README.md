@@ -34,10 +34,7 @@ As a full-stack developer, I have hands-on experience with backend technologies,
 
 ## Currently:
 
-I’m working on a MERN stack e-commerce project. This full-stack web application is built using MongoDB, Express.js, React.js, and Node.js. The platform focuses on creating a seamless online shopping experience with features like user authentication, product management, cart functionality, and secure payment processing.
-
-The project aims to provide a scalable and responsive e-commerce solution that works across desktop and mobile devices.
-
+I’m working on a productivity desktop application word processor called LightDocs. Think Microsoft Word but lighter.  I building it with Tauri wgich is a combination of web technologies for the frontend and Rust for the backend. This will be my very first native desktop application so it might take a while as I'm still learning and building. Di comeback to track progress as I update this every month.
 
 
 
