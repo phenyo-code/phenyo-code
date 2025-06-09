@@ -11,8 +11,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=flat-square" /></a>
-  <a href="https://x.com/your-username"><img src="https://img.shields.io/badge/X-000000?logo=x&style=flat-square" /></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF5733?logo=internet-explorer&style=flat-square" /></a>
+  <a href="https://dev-phenyo.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF5733?logo=internet-explorer&style=flat-square" /></a>
 </p>
 
 ---
