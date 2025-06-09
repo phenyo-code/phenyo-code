@@ -77,14 +77,11 @@ I'm a passionate full-stack developer with a knack for crafting seamless, user-f
 
 ---
 
-## 📬 Let's Connect!
+## Let's Connect!
 
 I'm always excited to collaborate, discuss tech, or explore new opportunities. Feel free to:
 
-- 📩 Drop me an email at [your.email@example.com](mailto:your.email@example.com).
-- 🐦 Follow me on [X](https://x.com/your-username) for tech updates.
-- 💼 Connect on [LinkedIn](https://www.linkedin.com/in/your-linkedin).
-- 🌐 Visit my [Portfolio](https://your-portfolio.com) to see more of my work.
+- Visit my [Portfolio](https://your-portfolio.com) to see more of my work.
 
 <p align="center">
   <i>Let's build something amazing together!</i>
