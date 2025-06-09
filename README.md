@@ -50,7 +50,7 @@ I'm a passionate full-stack developer with a knack for crafting seamless, user-f
 - **Auth**: NextAuth.js
 - **Tools**: TypeScript, Zod, Lodash, Axios, Chart.js, Jest, ESLint, Prettier
 
-🔗 **Check it out**: [GitHub Repo](https://github.com/your-username/flare) | [Live Demo](https://your-live-demo.com)
+🔗 **Check it out**: [GitHub Repo](https://github.com/phenyo-code/flare) | [Live Demo](https://www.flare-shop.co.za)
 
 <p align="center">
   <img src="https://img.shields.io/badge/last%20commit-june-2ea44f?style=flat-square" />
