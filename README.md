@@ -22,7 +22,7 @@ I'm a passionate full-stack developer with a knack for crafting seamless, user-f
 
 - 🌟 **Currently exploring**: Next.js, TypeScript, and scalable MongoDB architectures.
 - 🛠️ **Tech Stack**: JavaScript, TypeScript, React, Next.js, Node.js, MongoDB, Prisma, Tailwind CSS, and more.
-- 📫 **Reach out**: [your.email@example.com](mailto:your.email@example.com) or DM me on [X](https://x.com/your-username).
+- 📫 **Reach out**: [phenyokoikoi3@gmail.com](phenyokoikoi3@gmail.com.
 
 ---
 
