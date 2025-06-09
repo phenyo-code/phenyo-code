@@ -3,7 +3,7 @@
 <img src="https://phenyodesigns.netlify.app/Header.png">
 </p>
 
-<h1 align="center">Hey there! I'm [Your Name] 👋</h1>
+<h1 align="center">Hey there! I'm Phenyo 👋</h1>
 
 <p align="center">
   <i>Full-Stack Developer | Building innovative web solutions with modern tech</i>
