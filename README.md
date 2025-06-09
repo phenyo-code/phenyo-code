@@ -3,65 +3,91 @@
 <img src="https://phenyodesigns.netlify.app/Header.png">
 </p>
 
-I am a passionate and dedicated Full stack developer with a 7-year journey of self-taught exploration in the world of software development. My expertise lies in modern JavaScript technologies, including frameworks and libraries such as Next.js, Angular, React.js, and React Native, which I use to build dynamic web and mobile applications.
-
-As a full-stack developer, I have hands-on experience with backend technologies, including Node.js, Express, and MongoDB, enabling me to create scalable, end-to-end solutions.
-
-
-
-
-.
-## My Skills:
+<h1 align="center">Hey there! I'm [Your Name] 👋</h1>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" title="JavaScript" />&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="50" height="50" title="React.js" />&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50" title="Angular" />&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" title="Node.js" />&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="50" height="50" title="Express" />&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="50" height="50" title="Postman" />&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" title="MongoDB" />
-  &nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="50" height="50" title="Next.js" />
-
-
+  <i>Full-Stack Developer | Building innovative web solutions with modern tech</i>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=flat-square" /></a>
+  <a href="https://x.com/your-username"><img src="https://img.shields.io/badge/X-000000?logo=x&style=flat-square" /></a>
+  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF5733?logo=internet-explorer&style=flat-square" /></a>
+</p>
 
+---
 
+## 🚀 About Me
 
-.
-## Portfolio:
+I'm a passionate full-stack developer with a knack for crafting seamless, user-focused web applications. I love diving into modern JavaScript frameworks, building robust backends, and integrating cutting-edge tools to create delightful user experiences. My latest project, **FLARE**, is a testament to my commitment to innovation in e-commerce.
 
-Please check out some of my live projects at [My Portfolio](https://dev-phenyo.vercel.app)
+- 🌟 **Currently exploring**: Next.js, TypeScript, and scalable MongoDB architectures.
+- 🛠️ **Tech Stack**: JavaScript, TypeScript, React, Next.js, Node.js, MongoDB, Prisma, Tailwind CSS, and more.
+- 📫 **Reach out**: [your.email@example.com](mailto:your.email@example.com) or DM me on [X](https://x.com/your-username).
 
-## Currently:
+---
 
-I’m working on a productivity desktop application word processor called LightDocs. Think Microsoft Word but lighter.  I'm building it with Tauri which is a combination of web technologies for the frontend and Rust for the backend. This will be my very first native desktop application so it might take a while as I'm still learning and building. Di comeback to track progress as I update this every month.
+## 🔥 Featured Project: FLARE
 
+<p align="center">
+  <i>Empower Your Shopping Experience with Seamless Innovation</i>
+</p>
 
+**FLARE** is a modern e-commerce platform built to deliver a smooth and secure shopping experience. From real-time cart updates to Stripe-powered payments, FLARE combines cutting-edge tech with user-centric design.
 
+### ✨ Key Features
+- **Product Browsing**: Detailed product pages with rich visuals and pricing.
+- **Real-Time Cart**: Dynamic updates for a seamless shopping flow.
+- **Stripe Checkout**: Secure and responsive payment processing.
+- **Admin Panel**: Manage products, orders, and inventory effortlessly.
+- **Smart Suggestions**: Category-based product recommendations.
+- **User Authentication**: Powered by NextAuth.js.
+- **Order Management**: Track orders with ease.
 
-.
+### 🛠️ Built With
+- **Frontend**: Next.js 15, React, Tailwind CSS, Swiper, Framer Motion
+- **Backend**: Node.js, Prisma ORM, MongoDB
+- **Payments**: Stripe, PayU
+- **Auth**: NextAuth.js
+- **Tools**: TypeScript, Zod, Lodash, Axios, Chart.js, Jest, ESLint, Prettier
 
-## Currently Learning:
+🔗 **Check it out**: [GitHub Repo](https://github.com/your-username/flare) | [Live Demo](https://your-live-demo.com)
 
+<p align="center">
+  <img src="https://img.shields.io/badge/last%20commit-june-2ea44f?style=flat-square" />
+  <img src="https://img.shields.io/badge/typescript-85%25-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/languages-4-lightgrey?style=flat-square" />
+</p>
 
---       C#: I’m deepening my understanding of C# to build more robust backend systems and improve my proficiency in object-oriented 
-         programming. C# is widely used in developing enterprise applications and games, which aligns with my goal to enhance my backend 
-          development skills.
+---
 
---      Cloud Deployment: I’m learning how to deploy applications to the cloud using services like AWS, Azure, and Heroku. Cloud 
-        deployment is essential for scaling applications, ensuring high availability, and enhancing performance, especially in modern web 
-         applications and e-commerce solutions.
+## 🛠️ My Tech Toolbox
 
---     CI/CD (Continuous Integration/Continuous Deployment): I’m gaining expertise in setting up automated CI/CD pipelines to streamline 
-       development workflows, automate testing, and deploy applications reliably. CI/CD improves efficiency by reducing manual 
-       intervention and speeding up the delivery process.
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?logo=stripe&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&style=for-the-badge" />
+</p>
 
---    Docker: I’m exploring Docker to containerize applications, making them easier to deploy across different environments. Docker 
-      simplifies application distribution and ensures consistency across development, testing, and production environments.
+---
 
----  Kubernetes (K8S): I’m learning Kubernetes to manage containerized applications at scale. Kubernetes is a powerful tool for 
-     orchestrating, scaling, and automating the deployment of applications, especially in microservices architectures.
+## 📬 Let's Connect!
+
+I'm always excited to collaborate, discuss tech, or explore new opportunities. Feel free to:
+
+- 📩 Drop me an email at [your.email@example.com](mailto:your.email@example.com).
+- 🐦 Follow me on [X](https://x.com/your-username) for tech updates.
+- 💼 Connect on [LinkedIn](https://www.linkedin.com/in/your-linkedin).
+- 🌐 Visit my [Portfolio](https://your-portfolio.com) to see more of my work.
+
+<p align="center">
+  <i>Let's build something amazing together!</i>
+</p>
 
